@@ -25,7 +25,7 @@ You will need
 
 1. Before logging in, consider testing the functionality of the app while logged out. You will be able to read all of the data we provide, but not be able to create anything.
 2. When you then want to log in to be able to create data:
-   1. Log in using <your_email_username>+clerk_test@<your_email_domain>
+   1. Log in using `<your_email_username>+clerk_test@<your_email_domain>`
       1. For example, if your email is `dltompki@calpoly.edu`, you would log in with `dltompki+clerk_test@calpoly.edu`.
    1. For verification, use the code `424242`
    1. Continue testing the rest of the functionality of our app!
