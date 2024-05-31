@@ -32,4 +32,4 @@ You will need
 
 # Contact Us
 
-To contact our on-call engineer, join the channel [#green-kittens-contact-us](https://app.slack.com/client/T06B7QN79FD/C073X6YUTMK) on Slack and send a message.
+To contact our on-call engineer, join the channel `#green-kittens-contact-us` on Slack and send a message.
