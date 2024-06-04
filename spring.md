@@ -79,8 +79,8 @@ Due: 2024-06-07T23:59
       - Provide examples/inputs with meaningful data. For instance, fill out a profile form with real names, dates, etc. If showing pre-existing data, make sure you populate them with real data, so it looks real in the demonstration. Try to tell a story as you give your demo and use your Personas and User Stories to guide you.
       - Speak (or have someone else speak) while you’re typing or clicking around during the demonstration.
     - Metrics
-      - Estimates/actual for all 8 sprints
-      - Velocity for all 8 sprints with an average line.
+      - Estimates/actual for all 10 sprints
+      - Velocity for all 10 sprints with an average line.
     - Project retrospective
       - What went well and what went not so well (lessons learned) overall (whole quarter).
       - same as above for just sprint 8
