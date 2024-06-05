@@ -61,7 +61,7 @@ Due: 2024-06-07T23:59
     - Is there evidence that the team took care of internal code quality?
     - Or the opposite: Is there evidence that the team was not able to provide a good design (e.g., too many code duplications, too many commented out code, code not following style guidelines, code drifting away from the planned architecture, too many code smells and technical debt).
     - The source code repository is the main source for this assessment.
-- [ ] Oral Presentation (4 points)
+- [x] Oral Presentation (4 points)
   - 20-25 minutes (including questions)
   - every member speaks
   - [ ] slides and link to team github in canvas assignment
