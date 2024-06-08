@@ -15,14 +15,14 @@ Due: 2024-06-07T23:59
     - [ ] do not delete issues
     - [ ] concluded issues should be closed with estimates and actuals logged
     - [ ] add comments to unfinished issues and log time spent thus far
-- [ ] Requirements and Design Specification Document (2 points)
-  - [ ] update tech spec from CSC 308 according to current state of solution
-    - [ ] Requirement changes and design modifications if applicable
-      - [ ] requirements
-      - [ ] user stories
-      - [ ] design section
-    - [ ] data schema changes
-    - [ ] tests
+- [x] Requirements and Design Specification Document (2 points)
+  - [x] update tech spec from CSC 308 according to current state of solution
+    - [x] Requirement changes and design modifications if applicable
+      - [x] requirements
+      - [x] user stories
+      - [x] design section
+    - [x] data schema changes
+    - [x] tests
   - [ ] enumerate changes in new section at the top called "Updates From Previous
         Version"
 - [ ] Software Tests
