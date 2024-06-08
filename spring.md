@@ -11,10 +11,10 @@ Due: 2024-06-07T23:59
     - [ ] testing (test commands / scripts)
     - [ ] managing continuous integration
     - [ ] code style / linting / formatting
-  - [ ] make sure GitHub repository is up to date on issues and boards
-    - [ ] do not delete issues
-    - [ ] concluded issues should be closed with estimates and actuals logged
-    - [ ] add comments to unfinished issues and log time spent thus far
+  - [x] make sure GitHub repository is up to date on issues and boards
+    - [x] do not delete issues
+    - [x] concluded issues should be closed with estimates and actuals logged
+    - [x] add comments to unfinished issues and log time spent thus far
 - [x] Requirements and Design Specification Document (2 points)
   - [x] update tech spec from CSC 308 according to current state of solution
     - [x] Requirement changes and design modifications if applicable
