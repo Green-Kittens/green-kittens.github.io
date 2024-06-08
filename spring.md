@@ -22,8 +22,8 @@ Due: 2024-06-07T23:59
       - [x] user stories
       - [x] design section
     - [x] data schema changes
-    - [x] tests
-  - [ ] enumerate changes in new section at the top called "Updates From Previous
+    - [ ] tests
+  - [x] enumerate changes in new section at the top called "Updates From Previous
         Version"
 - [ ] Software Tests
   - [ ] Unit/Integration Tests (5 points)
